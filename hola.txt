@@ -1,3 +1,9 @@
 hola.txt
 programacion.doc
 adios.cpp
+
+clear: limpia todo en pantalla 
+
+git --m “mi primera actualización”: Ahora el archivo esta incluído en el HEAD, pero aún no en tu repositorio remoto.
+
+git remote: Mostrará una lista con los nombres de los remotos que hayas especificado
